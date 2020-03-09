@@ -1,0 +1,15 @@
+[0m[[0m[0mdebug[0m] [0m[0m[watch] [scala-studies / Compile / run] Found inputs: /Users/jeromeboyer/Code/jbcodeforce/scala-studies/*.{java,scala},/Users/jeromeboyer/Code/jbcodeforce/scala-studies/src/main/java/**/*.{java,scala},/Users/jeromeboyer/Code/jbcodeforce/scala-studies/src/main/resources/**/*,/Users/jeromeboyer/Code/jbcodeforce/scala-studies/src/main/scala/**/*.{java,scala},/Users/jeromeboyer/Code/jbcodeforce/scala-studies/src/main/scala-2.12/**/*.{java,scala}[0m
+[0m[[0m[0minfo[0m] [0m[0m1. Monitoring source files for scala-studies/run...[0m
+[0m[[0m[0minfo[0m] [0m[0m   Press <enter> to interrupt or '?' for more options.[0m
+[0m[[0m[0mdebug[0m] [0m[0mscala-studies / Compile / run - Accepted event for /Users/jeromeboyer/Code/jbcodeforce/scala-studies/src/main/scala/SimpleApp.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(/Users/jeromeboyer/Code/jbcodeforce/scala-studies/src/main/scala/SimpleApp.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path /Users/jeromeboyer/Code/jbcodeforce/scala-studies/src/main/scala/SimpleApp.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path /Users/jeromeboyer/Code/jbcodeforce/scala-studies/src/main/scala/SimpleApp.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mCreating update event for modified /Users/jeromeboyer/Code/jbcodeforce/scala-studies/src/main/scala/SimpleApp.scala (previous stamp: Hash(ea9597f0031a0c0841e2ce9186f65eec6b39fdba), current stamp: Hash(6a969718144fa26ac3904fdde8535ee2430e3e7a))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived file event actions: /Users/jeromeboyer/Code/jbcodeforce/scala-studies/src/main/scala/SimpleApp.scala -> Trigger. Returning: (Update(/Users/jeromeboyer/Code/jbcodeforce/scala-studies/src/main/scala/SimpleApp.scala, 2020-Jan-22 12:29:19.961 PT),Trigger)[0m
+[0m[[0m[0minfo[0m] [0m[0mBuild triggered by /Users/jeromeboyer/Code/jbcodeforce/scala-studies/src/main/scala/SimpleApp.scala. Running 'run'.[0m
+[0m[[0m[0mdebug[0m] [0m[0m[watch] [debug] Received file event Trigger for Update(/Users/jeromeboyer/Code/jbcodeforce/scala-studies/src/main/scala/SimpleApp.scala, 2020-Jan-22 12:29:19.961 PT).[0m
+[0m[[0m[0minfo[0m] [0m[0m2. Monitoring source files for scala-studies/run...[0m
+[0m[[0m[0minfo[0m] [0m[0m   Press <enter> to interrupt or '?' for more options.[0m
+[0m[[0m[0mdebug[0m] [0m[0m[watch] [debug] Received input event: Run().[0m
+[0m[[0m[0mdebug[0m] [0m[0m[watch] [debug] Received input event: Run().[0m
